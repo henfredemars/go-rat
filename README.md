@@ -1,6 +1,6 @@
 Go-RAT: Remote Access Tool (On Hold)
 =============================
-Go-RAT WAS a demonstrative Remote Access Tool that provides anytime remote access to another computer system. 
+Go-RAT WAS going to be a demonstrative Remote Access Tool that provides anytime remote access to another computer system. This project was never completed beyond the scaffolding stage. 
 
 ## Purpose
 * Exercise Go skills.
